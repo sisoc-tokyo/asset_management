@@ -1,8 +1,0 @@
-lxml==4.5.1
-netaddr==0.7.19
-netifaces==0.10.9
-py==1.8.1
-pyshark==0.4.2.11
-scapy==2.4.3
-networkx==2.4
-matplotlib==3.2.1
